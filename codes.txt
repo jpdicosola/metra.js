@@ -1,0 +1,39 @@
+// Line Codes
+// UP-N, MD-N, NCS, UP-NW, MD-W, UP-W, BNSF, HC, SWS, RI, ME
+
+// UP-N: Union Pacific / North Line
+// MD-N: Milwaukee District / North Line
+// NCS: North Central Service
+// UP-NW: Union Pacific / Northwest Line
+// MD-W: Milwaukee District / West Line
+// UP-W: Union Pacific / West Line
+// BNSF: BNSF Railway
+// HC: Heritage Corridor
+// SWS: SouthWest Service
+// RI: Rock Island District 
+// ME: Metra Electric District
+
+//MD-W
+
+// BIGTIMBER Big Timber Road
+// ELGIN Elgin
+// NATIONALS National Street 
+// BARTLETT Bartlett 
+// HANOVERP Hanover Park
+// SCHAUM Schaumburg 
+// ROSELLE Roselle
+// MEDINAH Medinah 
+// ITASCA Itasca
+// WOODDALE Wood Dale 
+// BENSENVIL Bensenville 
+// MANNHEIM Mannheim 
+// FRANKLIN Franklin Park
+// RIVERGROVE River Grove
+// ELMWOODPK Elmwood Park
+// MONTCLARE Mont Clare
+// MARS Mars
+// GALEWOOD Galewood
+// HANSONPK Hanson Park 
+// GRAND-CIC Grand / Cicero
+// WESTERNAVE Western Avenue
+// CUS Union Station
