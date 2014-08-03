@@ -1,11 +1,15 @@
 {
   "author" : "John-Patrick Di Cosola <john@jpdicosola.com>",
   "dependencies" : {
-    "request" : ">=2.11.4"
+    "request" : ">=2.11.4",
+    "async" : "*",
+    "cheerio": "*",
+    "moment-timezone": "*",
   },
-  "description" : "",
+  "description" : "Real-time Metra train tracker.",
   "homepage" : "",
   "bugs" : "",
   "main" : "",
-  "name" : ""
+  "name" : "Real-Time Metra",
+  version: "0.0.2"
 }
