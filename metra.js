@@ -1,7 +1,7 @@
 var request = require('request');
 var async = require('async');
 var config = {};
-var TripDataProvider = require('./metra-lines');
+var TripDataProvider = require('./metra-data');
 var moment = require('moment-timezone');
 
 TrainDirection = {
